@@ -23,3 +23,5 @@ The project goal is to develop a web-based public service to notify registered u
 ### Support or Contact
 
 Please go to [BioEquity](http://bioequity.org)
+
+This is the docs.
