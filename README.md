@@ -15,7 +15,10 @@ The project goal is to develop a web-based public service to notify registered u
 3. If in system and same data, say `on track`
 4. If in system and new data, say `updated`
 5. Daily check, if same, do nothing, if updated, notify
-6. Data analysis: most tracked
+6. Data analysis: 
+    * most tracked
+    * by phase I, II, III
+    * by public (market cap), private
 
 ### Support or Contact
 
