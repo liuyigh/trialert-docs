@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to TriAlert
+
+A Python/Web2py based web app for clinical trial alert.
 
 You can use the [editor on GitHub](https://github.com/liuyigh/trialert/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
