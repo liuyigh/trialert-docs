@@ -2,38 +2,21 @@
 
 A Python/Web2py based web app for clinical trial alert.
 
-You can use the [editor on GitHub](https://github.com/liuyigh/trialert/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The project goal is to develop a web-based public service to notify registered user updates of clinical trials selected by the user.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Scraping ClinicalTrials.gov
 
-### Markdown
+[Public API](https://clinicaltrials.gov/ct2/resources/download) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Features
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liuyigh/trialert/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. user defined trial #
+2. If new, download data, say `new`
+3. If in system and same data, say `on track`
+4. If in system and new data, say `updated`
+5. Daily check, if same, do nothing, if updated, notify
+6. Data analysis: most tracked
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Please go to [BioEquity](http://bioequity.org)
