@@ -14,7 +14,7 @@ The project goal is to develop a web-based public service to notify registered u
 2. If new, download data, say `new`
 3. If in system and same data, say `on track`
 4. If in system and new data, say `updated`
-5. Daily check, if same, do nothing, if updated, notify
+5. Daily check, if same, do nothing, if updated, notify, avoid duplicate `updated` tag when user just keyed in.
 6. Data analysis: 
     * most tracked
     * by phase I, II, III
