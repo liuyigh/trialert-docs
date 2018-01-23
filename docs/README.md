@@ -23,6 +23,9 @@ The project goal is to develop a web-based public service to notify registered u
 7. Social function
     * recommend what you might like
 
+8. remove trial if nobody tracks it.
+9. it seems trials updates by 7am in the morning. do twice a day?
+
 ### Support or Contact
 
 Please go to [BioEquity](http://bioequity.org)
