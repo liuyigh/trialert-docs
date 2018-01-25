@@ -20,6 +20,8 @@ The project goal is to develop a web-based public service to notify registered u
     * by phase I, II, III
     * by public (market cap), private
     * PI?
+    * just updated
+    * most often updated
 7. Social function
     * recommend what you might like
 
