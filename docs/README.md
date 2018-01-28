@@ -29,6 +29,7 @@ The project goal is to develop a web-based public service to notify registered u
 9. it seems trials updates by 7am in the morning. do twice a day?
 10. weekly mark, daily mark, user new mark, trial new mark
 11. One field to enter, then display tracked ones below with delete button, and info.
+12. link to trial in tracked table
 
 ### Support or Contact
 
