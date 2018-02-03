@@ -8,32 +8,10 @@ The project goal is to develop a web-based public service to notify registered u
 
 [Public API](https://clinicaltrials.gov/ct2/resources/download) 
 
-### Features
+### FAQ
 
-1. user defined trial #
-2. If new, download data, say `new`
-3. If in system and same data, say `on track`
-4. If in system and new data, say `updated`
-5. Daily check, if same, do nothing, if updated, notify, avoid duplicate `updated` tag when user just keyed in.
-6. Data analysis: 
-    * most tracked
-    * by phase I, II, III
-    * by public (market cap), private
-    * PI?
-    * just updated
-    * most often updated
-7. Social function
-    * recommend what you might like
 
-8. remove trial if nobody tracks it.
-9. it seems trials updates by 7am in the morning. do twice a day?
-10. weekly mark, daily mark, user new mark, trial new mark
-11. One field to enter, then display tracked ones below with delete button, and info.
-12. link to trial in tracked table, use jQuery?
-13. logo: use mixed color, plsit color, or black and white, stripes
 
 ### Support or Contact
 
 Please go to [BioEquity](http://bioequity.org)
-
-This is the docs.
